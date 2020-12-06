@@ -698,7 +698,7 @@ const broadcast = (userId, data) => {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\faculta\mobile\lab\lab1\server\pdm_server_music_app\src/index.js */"./src/index.js");
+module.exports = __webpack_require__(/*! D:\faculta\mobile\lab\lab1\server\pdm_server_music_app\nodejs_server\src/index.js */"./src/index.js");
 
 
 /***/ }),
