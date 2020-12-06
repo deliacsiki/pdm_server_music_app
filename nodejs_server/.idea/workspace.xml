@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1436e22a-05b6-41cc-a15a-73114b9929c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/db/notes.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/notes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/note/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/note/router.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iooFOvk9Uwfx8j3N7Q4DPbsmu7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/utils" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1436e22a-05b6-41cc-a15a-73114b9929c7" name="Default Changelist" comment="" />
+      <created>1602583200485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602583200485</updated>
+      <workItem from="1602583201511" duration="11735000" />
+      <workItem from="1603200897580" duration="3017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1318" height="171" key="GridCell.Tab.0.bottom" timestamp="1602706899688">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1318" height="171" key="GridCell.Tab.0.bottom/0.23.1344.737@0.23.1344.737" timestamp="1602706899688" />
+    <state width="1318" height="171" key="GridCell.Tab.0.center" timestamp="1602706899688">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1318" height="171" key="GridCell.Tab.0.center/0.23.1344.737@0.23.1344.737" timestamp="1602706899688" />
+    <state width="1318" height="171" key="GridCell.Tab.0.left" timestamp="1602706899688">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1318" height="171" key="GridCell.Tab.0.left/0.23.1344.737@0.23.1344.737" timestamp="1602706899688" />
+    <state width="1318" height="171" key="GridCell.Tab.0.right" timestamp="1602706899688">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="1318" height="171" key="GridCell.Tab.0.right/0.23.1344.737@0.23.1344.737" timestamp="1602706899688" />
+    <state x="71" y="23" key="SettingsEditor" timestamp="1602687584215">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state x="71" y="23" key="SettingsEditor/0.23.1344.737@0.23.1344.737" timestamp="1602687584215" />
+    <state x="302" y="104" width="740" height="574" key="find.popup" timestamp="1602702534299">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state x="302" y="104" width="740" height="574" key="find.popup/0.23.1344.737@0.23.1344.737" timestamp="1602702534299" />
+    <state width="750" height="535" key="javadoc.popup" timestamp="1602605931634">
+      <screen x="0" y="23" width="1344" height="737" />
+    </state>
+    <state width="750" height="535" key="javadoc.popup/0.23.1344.737@0.23.1344.737" timestamp="1602605931634" />
+  </component>
+</project>
