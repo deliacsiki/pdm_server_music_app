@@ -162,7 +162,8 @@ router.post('/login', async ctx => {
 
   if (user && credentials.password === user.password) {
     response.body = {
-      token: createToken(user)
+      token: createToken(user),
+      _id: user._id
     };
     response.status = 201; // created
   } else {
@@ -360,6 +361,7 @@ const createSong = async (ctx, song, response) => {
     const userId = ctx.state.user._id;
     song.userId = userId;
     response.body = await _store__WEBPACK_IMPORTED_MODULE_1__["default"].insert(song);
+    console.log(response.body);
     response.status = 201; // created
 
     Object(_utils__WEBPACK_IMPORTED_MODULE_2__["broadcast"])(userId, {
@@ -472,6 +474,7 @@ class SongStore {
     const validationResults = this.validator.validate(song);
 
     if (validationResults.hasError) {
+      console.log("[Validation error]: ", validationResults.message);
       throw new Error(validationResults.message);
     }
 

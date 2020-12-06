@@ -18,6 +18,7 @@ export class SongStore {
   async insert(song) {
     const validationResults = this.validator.validate(song);
     if(validationResults.hasError){
+      console.log("[Validation error]: ", validationResults.message);
       throw new Error(validationResults.message);
     }
     return this.store.insert(validationResults.song);
